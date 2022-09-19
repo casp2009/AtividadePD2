@@ -18,25 +18,5 @@
 	{
 		"dicas":["tem positivo","tem negativo","fornece energia"],
 		"resposta":"pilha"
-	},
-	{
-		"dicas":["trabalha no circo","profissão perigosa","fica pendurado"],
-		"resposta":"trapezista"
-	},
-	{
-		"dicas":["é um salgadinho","festa de casamento tem","recheio de frango"],
-		"resposta":"coxinha"
-	},
-	{
-		"dicas":["nome de filme","tem mafia","tem don corleone"],
-		"resposta":"o poderoso chefao"
-	},
-	{
-		"dicas":["instrumento musical","escoces usa","giria de dinheiro"],
-		"resposta":"gaita"
-	},
-	{
-		"dicas":["ave","tem na nota de 10 reais","penas coloridas"],
-		"resposta":"arara"
-	}	
+	}
 ]
