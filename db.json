@@ -1,0 +1,42 @@
+[
+	{
+		"dicas":["é amarela","tem pintas","rainha do pantanal"],
+		"resposta":"onça pintada"
+	},
+	{
+		"dicas":["é parte de uma música do luan santana","cavalo da mitologia grega","desenho"],
+		"resposta":"Meteoro de pegasus"
+	},
+	{
+		"dicas":["é preto","ajuda a ficar acordado","muito gostoso"],
+		"resposta":"cafe"
+	},
+	{
+		"dicas":["vende frutas","vende legumes","vende pastel"],
+		"resposta":"feirante"
+	},
+	{
+		"dicas":["tem positivo","tem negativo","fornece energia"],
+		"resposta":"pilha"
+	},
+	{
+		"dicas":["trabalha no circo","profissão perigosa","fica pendurado"],
+		"resposta":"trapezista"
+	},
+	{
+		"dicas":["é um salgadinho","festa de casamento tem","recheio de frango"],
+		"resposta":"coxinha"
+	},
+	{
+		"dicas":["nome de filme","tem mafia","tem don corleone"],
+		"resposta":"o poderoso chefao"
+	},
+	{
+		"dicas":["instrumento musical","escoces usa","giria de dinheiro"],
+		"resposta":"gaita"
+	},
+	{
+		"dicas":["ave","tem na nota de 10 reais","penas coloridas"],
+		"resposta":"arara"
+	}	
+]
